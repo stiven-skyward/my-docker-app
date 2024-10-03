@@ -43,9 +43,6 @@ This repository covers the process of containerizing a Python Flask application 
 
 ---
 
-## Contributions
-Feel free to contribute to this project by adding more advanced use cases or suggesting improvements. Pull requests are welcome!
-
 ## License
 This project is licensed under the Apache 2.0 License.
 
